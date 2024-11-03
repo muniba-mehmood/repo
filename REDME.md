@@ -1,1 +1,2 @@
- # WElcome to tech
+ #  WElcome to tech.
+ learn tech
